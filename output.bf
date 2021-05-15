@@ -1,0 +1,6 @@
+,					"Recebendo primeiro arg"
+>,					"Recebendo segundo arg"
+>,					"Recebendo terceiro arg"
+>,					"Recendo quarto arg"
+>,					"Recebendo quinto arg"
+<<<<.>.>.>.>.		"Dando um get nas células das quais estão os args e printando os mesmos"
